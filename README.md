@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro repositório do curso que to fazendo
+# OláMundo
+ Primeiro repositório do curso que to fazendo com o grande Guanabara.
